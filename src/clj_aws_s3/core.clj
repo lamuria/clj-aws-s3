@@ -73,7 +73,7 @@
   (as-map [owner]
     {:name (.getDisplayName owner)})
   nil
-  (as-map [value] nil))
+  (as-map [_] nil))
 
 (defn create-bucket
   "Create new bucket given bucket-name"
