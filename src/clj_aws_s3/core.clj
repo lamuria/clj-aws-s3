@@ -2,7 +2,6 @@
   (:import com.amazonaws.auth.BasicAWSCredentials
            com.amazonaws.auth.BasicSessionCredentials
            com.amazonaws.services.s3.AmazonS3Client
-           com.amazonaws.AmazonServiceException
            com.amazonaws.ClientConfiguration
            com.amazonaws.services.s3.model.Bucket
            com.amazonaws.services.s3.model.Owner))
