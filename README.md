@@ -1,4 +1,5 @@
-# clj-aws-s3
+# AWS S3 Clojure Wrapper [![Build Status](https://travis-ci.org/lamuria/clj-aws-s3.svg?branch=master)](https://travis-ci.org/lamuria/clj-aws-s3)
+
 
 A Clojure library designed to ... well, that part is up to you.
 
